@@ -1,4 +1,4 @@
 DataScience
 ===========
 
-A repository for Coursera DataScience track
+A repository for Coursera Data Science Track
